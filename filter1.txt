@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+
+! exceptions/sitekey
+testpages.adblockplus.org##.testcase-sitekey-eh
+||testpages.adblockplus.org/testfiles/sitekey/outofframe.png
+||testpages.adblockplus.org/testfiles/sitekey/inframe.png
